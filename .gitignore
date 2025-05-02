@@ -1,0 +1,7 @@
+log/
+go*/
+log.DEV/
+log.STABLE/
+build/
+install/
+scc/
