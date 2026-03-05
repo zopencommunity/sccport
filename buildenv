@@ -1,6 +1,6 @@
 # Update bump details accordingly. Use bump check to confirm.
 # bump: scc-version /SCC_VERSION="(.*)"/ https://github.com/boyter/scc.git|semver:*
-SCC_VERSION="3.5.0" # Specify a stable release
+SCC_VERSION="3.7.0" # Specify a stable release
 # export ZOPEN_STABLE_TAG="v${SCC_VERSION}"
 
 ###
